@@ -1,9 +1,9 @@
 #Read Me File for fun with functions.
 <ol>
-<li>1.Start Eclipse</li>
-2.Change workspace.
-3.Start a new project. (Use default JRE if from flash-drive.)
-4.Add a new class.
+<li>Start Eclipse</li>
+<li>Change workspace.</li>
+<li>Start a new project. (Use default JRE if from flash-drive.)</li>
+<li>Add a new class.</li>
 </ol>
 Git and GitHub
 
