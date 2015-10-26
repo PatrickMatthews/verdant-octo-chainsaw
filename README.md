@@ -1,10 +1,10 @@
 #Read Me File for fun with functions.
-
-1.Start Eclipse
+<ol>
+<li>1.Start Eclipse</li>
 2.Change workspace.
 3.Start a new project. (Use default JRE if from flash-drive.)
 4.Add a new class.
-
+</ol>
 Git and GitHub
 
 1.Open Git command prompt.
@@ -20,4 +20,4 @@ Git and GitHub
 	"or push an existing repository from the command line.
 	git remote add origin "url of repository"
 	git push -u origin master
-9.
+
